@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junhao Liang"
+title                    : "About Junhao"
 title_separator          : "-"
 name                     : &name "Junhao Liang"
 description              : &description "personal description"
