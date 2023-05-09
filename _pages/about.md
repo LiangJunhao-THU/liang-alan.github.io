@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Ph.D. Candidate advised by [Lingjie Kong](https://scholar.google.com/citations?user=9ZZVgx4AAAAJ&hl=en) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). My research mainly focuses on **computational pathology**, especially using deep learning methods to find new cancer biomarkers, acquire low-dimensional knowledge from high-dimensional pathological images, and develop clinically useful framework for cancer diagnosis and prognosis. In addition, I also study **computational optics** and develop **histopathological optical imaging systems**, which combine medical prior information and special optical methods to achieve clinically usable intraoperative rapid diagnosis and prognosis.
+I am a 3rd year Ph.D. Candidate advised by [Lingjie Kong](https://scholar.google.com/citations?user=9ZZVgx4AAAAJ&hl=en) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). My research mainly focuses on <ins>computational pathology</ins>, especially using deep learning methods to find new cancer biomarkers, acquire low-dimensional knowledge from high-dimensional pathological images, and develop clinically useful framework for cancer diagnosis and prognosis. In addition, I also study <ins>computational optics</ins> and develop <ins>histopathological optical imaging systems</ins>, which combine medical prior information and special optical methods to achieve clinically usable intraoperative rapid diagnosis and prognosis.
 
-*E-mail：liangjh20[at]mails[dot]tsinghua[dot]edu[dot]cn*
+*E-mail：liangjh20[at]mails.tsinghua.edu.cn*
 
  
  
