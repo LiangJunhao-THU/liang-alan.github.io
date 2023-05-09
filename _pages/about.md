@@ -14,6 +14,6 @@ E-mail：liangjh20[at]mails[dot]tsinghua[dot]edu[dot]cn
 
 News
 ======
-2023/4/24: PathFinder was [Highlighted](https://www.nature.com/articles/s44222-023-00069-x) in **Nature Reviews Bioengineering**. 
+2023/04/24: PathFinder was [Highlighted](https://www.nature.com/articles/s44222-023-00069-x) in **Nature Reviews Bioengineering**. 
 
-2023/4/3: Our work on [PathFinder](https://www.nature.com/articles/s42256-023-00635-3) (Pathological-Biomarker-Finder) was published in **Nature Machine Intelligence**. 
+2023/04/03: Our work on [PathFinder](https://www.nature.com/articles/s42256-023-00635-3) (Pathological-Biomarker-Finder) was published in **Nature Machine Intelligence**. 
