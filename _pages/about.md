@@ -21,7 +21,7 @@ I also study <ins>computational optics</ins> and develop <ins>histopathological 
 
 News
 ======
-2024/03: Our work on wide-field mesoscopy ([RA-WiFi](https://www.nature.com/articles/s41566-024-01422-1)) was accepted in **Nature Photonics**.
+2024/03: Our work on wide-field mesoscopy ([RA-WiFi](https://www.nature.com/articles/s41566-024-01422-1)) was published in **Nature Photonics**.
 
 2023/04: PathFinder was [Highlighted](https://www.nature.com/articles/s44222-023-00069-x) in **Nature Reviews Bioengineering**. 
 
